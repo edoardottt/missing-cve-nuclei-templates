@@ -114,6 +114,7 @@
 [ CVE-2021-33581 ] [  SSRF ] https://github.com/trickest/cve/blob/main/2021/CVE-2021-33581.md
 [ CVE-2021-35391 ] [ Server Side Request Forgery ] https://github.com/trickest/cve/blob/main/2021/CVE-2021-35391.md
 [ CVE-2021-35512 ] [  SSRF ] https://github.com/trickest/cve/blob/main/2021/CVE-2021-35512.md
+[ CVE-2021-36761 ] [  SSRF ] https://github.com/trickest/cve/blob/main/2021/CVE-2021-36761.md
 [ CVE-2021-37419 ] [  SSRF ] https://github.com/trickest/cve/blob/main/2021/CVE-2021-37419.md
 [ CVE-2021-37498 ] [  SSRF ] https://github.com/trickest/cve/blob/main/2021/CVE-2021-37498.md
 [ CVE-2021-40091 ] [  SSRF ] https://github.com/trickest/cve/blob/main/2021/CVE-2021-40091.md
@@ -156,3 +157,4 @@
 [ CVE-2023-32750 ] [  SSRF ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-32750.md
 [ CVE-2023-35133 ] [  SSRF ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-35133.md
 [ CVE-2023-38490 ] [  SSRF ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-38490.md
+[ CVE-2023-4769 ] [  SSRF ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-4769.md

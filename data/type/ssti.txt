@@ -20,7 +20,6 @@
 [ CVE-2022-22112 ] [ Template Injection template injection ] https://github.com/trickest/cve/blob/main/2022/CVE-2022-22112.md
 [ CVE-2022-27665 ] [ Template Injection ] https://github.com/trickest/cve/blob/main/2022/CVE-2022-27665.md
 [ CVE-2023-2017 ] [ Template Injection ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-2017.md
-[ CVE-2023-22621 ] [ Template Injection ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-22621.md
 [ CVE-2023-29827 ] [ template injection template injection ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-29827.md
 [ CVE-2023-30145 ] [ Template Injection ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-30145.md
 [ CVE-2023-30331 ] [ template injection ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-30331.md
