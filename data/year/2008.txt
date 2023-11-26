@@ -74,6 +74,7 @@
 [ CVE-2008-0393 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-0393.md
 [ CVE-2008-0397 ] [ SQL injection ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-0397.md
 [ CVE-2008-0398 ] [ Cross-site scripting ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-0398.md
+[ CVE-2008-0416 ] [ cross-site scripting ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-0416.md
 [ CVE-2008-0421 ] [ SQL injection ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-0421.md
 [ CVE-2008-0422 ] [ SQL injection ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-0422.md
 [ CVE-2008-0424 ] [ SQL injection ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-0424.md
@@ -266,6 +267,7 @@
 [ CVE-2008-1229 ] [ Cross-site scripting ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-1229.md
 [ CVE-2008-1231 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-1231.md
 [ CVE-2008-1232 ] [ Cross-site scripting ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-1232.md
+[ CVE-2008-1234 ] [ Cross-site scripting ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-1234.md
 [ CVE-2008-1257 ] [ Cross-site scripting ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-1257.md
 [ CVE-2008-1272 ] [ SQL injection ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-1272.md
 [ CVE-2008-1281 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2008/CVE-2008-1281.md
