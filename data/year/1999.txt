@@ -1,0 +1,1 @@
+[ CVE-1999-0067 ] [ remote command execution ] https://github.com/trickest/cve/blob/main/1999/CVE-1999-0067.md

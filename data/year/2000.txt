@@ -1,0 +1,1 @@
+[ CVE-2000-1053 ] [ cross-site scripting ] https://github.com/trickest/cve/blob/main/2000/CVE-2000-1053.md

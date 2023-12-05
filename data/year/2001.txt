@@ -1,0 +1,7 @@
+[ CVE-2001-0561 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2001/CVE-2001-0561.md
+[ CVE-2001-0680 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2001/CVE-2001-0680.md
+[ CVE-2001-0758 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2001/CVE-2001-0758.md
+[ CVE-2001-0853 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2001/CVE-2001-0853.md
+[ CVE-2001-0931 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2001/CVE-2001-0931.md
+[ CVE-2001-1432 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2001/CVE-2001-1432.md
+[ CVE-2001-1458 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2001/CVE-2001-1458.md
