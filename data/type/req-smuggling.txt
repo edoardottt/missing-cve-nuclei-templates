@@ -65,3 +65,4 @@
 [ CVE-2023-25725 ] [ request smuggling ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-25725.md
 [ CVE-2023-34037 ] [ request smuggling ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-34037.md
 [ CVE-2023-45648 ] [ request smuggling ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-45648.md
+[ CVE-2023-49082 ] [ request smuggling ] https://github.com/trickest/cve/blob/main/2023/CVE-2023-49082.md

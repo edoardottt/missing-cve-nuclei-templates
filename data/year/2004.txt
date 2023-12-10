@@ -84,6 +84,7 @@
 [ CVE-2004-2468 ] [ Cross-site scripting ] https://github.com/trickest/cve/blob/main/2004/CVE-2004-2468.md
 [ CVE-2004-2548 ] [ cross-site scripting ] https://github.com/trickest/cve/blob/main/2004/CVE-2004-2548.md
 [ CVE-2004-2643 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2004/CVE-2004-2643.md
+[ CVE-2004-2670 ] [ cross-site scripting ] https://github.com/trickest/cve/blob/main/2004/CVE-2004-2670.md
 [ CVE-2004-2695 ] [ SQL injection ] https://github.com/trickest/cve/blob/main/2004/CVE-2004-2695.md
 [ CVE-2004-2720 ] [ Cross-site scripting ] https://github.com/trickest/cve/blob/main/2004/CVE-2004-2720.md
 [ CVE-2004-2738 ] [ Cross-site scripting ] https://github.com/trickest/cve/blob/main/2004/CVE-2004-2738.md

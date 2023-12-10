@@ -126,6 +126,8 @@
 [ CVE-2005-1901 ] [ cross-site scripting ] https://github.com/trickest/cve/blob/main/2005/CVE-2005-1901.md
 [ CVE-2005-1930 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2005/CVE-2005-1930.md
 [ CVE-2005-1952 ] [ Directory traversal ] https://github.com/trickest/cve/blob/main/2005/CVE-2005-1952.md
+[ CVE-2005-1967 ] [ SQL injection ] https://github.com/trickest/cve/blob/main/2005/CVE-2005-1967.md
+[ CVE-2005-1968 ] [ Cross-site scripting ] https://github.com/trickest/cve/blob/main/2005/CVE-2005-1968.md
 [ CVE-2005-2002 ] [ SQL injection ] https://github.com/trickest/cve/blob/main/2005/CVE-2005-2002.md
 [ CVE-2005-2004 ] [ cross-site scripting ] https://github.com/trickest/cve/blob/main/2005/CVE-2005-2004.md
 [ CVE-2005-2009 ] [ SQL injection ] https://github.com/trickest/cve/blob/main/2005/CVE-2005-2009.md
